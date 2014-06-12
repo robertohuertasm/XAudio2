@@ -1,0 +1,1 @@
+﻿The libraries are under Lib Folder which is in TFS but not included into the project.
